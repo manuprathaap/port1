@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body{
+    background: url(./IMAGE/images.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* <link rel="icon" type="image/png" href="https://b.zmtcdn.com/images/logo/zomato_logo_2017.png"> */
+
+}
+#d1{
+    background-color: brown;
+    font-family: 'Dancing Script', cursive;
+
+}

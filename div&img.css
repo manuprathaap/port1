@@ -1,0 +1,31 @@
+div{
+    background-color: blueviolet;
+    width: 280px;
+    height: 500px;
+    margin: 10px;
+    float: left;
+    border-radius: 40px;
+    border: 5px solid rgb(163, 220, 228);
+
+
+}
+#d1{
+    background-color: chartreuse;
+
+}
+
+#d2{
+    background-color: darkgoldenrod;
+
+}
+
+#d3{
+background-color: deeppink;
+
+}
+
+h3{
+    color: rgb(255, 251, 253);
+    text-shadow: 8px 5px 6px;
+    text-shadow:rgb(17, 14, 14)
+}
